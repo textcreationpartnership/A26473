@@ -1,0 +1,4312 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Advice to the women and maidens of London shewing, that instead of their usual pastime, and education in needlework ... it were far more necessary and profitable to apply themselves to the right understanding and practice of the method of keeping books of account : with some essays, or rudiments for young beginners, in twelve articles / by one of that sex.</title>
+            <author>One of that sex.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 93 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26473</idno>
+            <idno type="STC">Wing A664</idno>
+            <idno type="STC">ESTC R21333</idno>
+            <idno type="EEBO-CITATION">12296680</idno>
+            <idno type="OCLC">ocm 12296680</idno>
+            <idno type="VID">59044</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26473)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59044)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 908:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Advice to the women and maidens of London shewing, that instead of their usual pastime, and education in needlework ... it were far more necessary and profitable to apply themselves to the right understanding and practice of the method of keeping books of account : with some essays, or rudiments for young beginners, in twelve articles / by one of that sex.</title>
+                  <author>One of that sex.</author>
+               </titleStmt>
+               <extent>[2], 36 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benjamin Billingsley ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bookkeeping --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59044:1"/>
+            <pb facs="tcp:59044:1" rendition="simple:additions"/>
+            <p>ADVICE To the <hi>WOMEN</hi> and <hi>MAIDENS</hi> OF LONDON.</p>
+            <p>Shewing, that inſtead of their uſual Pa<g ref="char:EOLhyphen"/>ſtime; and education in Needle-work, Lace, and Point-making, it were far more Neceſſary and Profi<g ref="char:EOLhyphen"/>table to apply themſelves to the right Underſtand<g ref="char:EOLhyphen"/>ing and Practice of the method of keeping books of account: whereby, either ſingle, or married, they may know their Eſtates, carry on their Trades, and avoid the Danger of a helpleſs and forlorn Conditi<g ref="char:EOLhyphen"/>on, incident to Widows.</p>
+            <p>With ſome Eſſays, or rudiments for young beginners; in twelve Articles.</p>
+            <p>
+               <hi>By one of that Sex.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Benjamin Billingsſley</hi> at the Printing preſs in <hi>Cornhill,</hi> 1678.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:59044:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:59044:2" rendition="simple:additions"/>
+            <head>ADVICE To the WOMEN and MAIDENS OF LONDON.</head>
+            <opener>
+               <salute>Ladies and Gentlewomen,</salute>
+            </opener>
+            <p>PErmit one of your <hi>Sex</hi> to give you, as far as <hi>her</hi> ſmall knowledge will reach ſome hints to the right underſtanding and uſe of Accounts: an Art ſo uſeful for all ſorts, ſexes and degrees of perſons, eſpecially for ſuch as ever think to have to do in the world in any ſort of Trade or Commerce, that next to a ſtock of Mony, Wares and Credit, this is the moſt neceſſary thing.</p>
+            <p>Nor let us be diſcouraged, or put by the inſpection thereof by being bid meddle with our diſtaff, for I have heard it affirmed by thoſe who have lived in for<g ref="char:EOLhyphen"/>raign part, that Merchants and other trades men have no other Book-keepers then their Wives: who by this means (the Husband dying) are well acquainted with the nature and manner of the trade, and are ſo cer<g ref="char:EOLhyphen"/>tain how, and where their ſtock is; that they need not be beholden to ſervants or friends for guidance.</p>
+            <p>And for telling us that the government of the Houſe
+<pb n="2" facs="tcp:59044:3"/>appertains to us, and the trades to our Fathers or Hus<g ref="char:EOLhyphen"/>bands; (under favour) the one is to be minded, and the other not neglected, for there is not that danger of a families overthrow by the ſauſe wanting it's right rel<g ref="char:EOLhyphen"/>liſh, or the Table or Stools miſplac't, as by a widows ignorance of her concern as to her eſtate, and I hope husbands will not oppoſe this when help and eaſe is in<g ref="char:EOLhyphen"/>tended to them whil'ſt living; and ſafety to their name and poſterity after death: except they have pri<g ref="char:EOLhyphen"/>vate trades (too much in mode) whereof they would have their wives wholly ignorant. In ſuch a caſe in<g ref="char:EOLhyphen"/>deed, one that knows not that one and two make three ſuits beſt. And let us not fear we ſhall want time and opportunity to mannage the decencies of our houſe; for what is an hour in a day, or half a day in a week, to make inſpection into that, that is to keep me and mine from ruine and poverty.</p>
+            <p>Methinks now the objection may be that this art is too high and myſterious for the weaker <hi>Sex</hi> it will make them proud: Women had better keep to their Needle-work, point laces, &amp;c. and if they come to poverty, thoſe ſmall Crafts may give them ſome mean releif.</p>
+            <p>To which I anſwer, That having in ſome meaſure practiſed both Needle-work and Accounts I can averr, that I never found this Maſculine Art harder or more difficult then the effeminate achievements of Lace-make<g ref="char:EOLhyphen"/>ing, gum-work or the like, the attainment whereof need not make us proud: And God forbid that the practiſe of an uſeful Virtue ſhould prompt us to a contrary Vice.</p>
+            <p>Therefore if I might adviſe you, you ſhould let the poor ſerve you with theſe mean things, whilſt by gain<g ref="char:EOLhyphen"/>ing or ſaving an eſtate you ſhall never be out of capa<g ref="char:EOLhyphen"/>city to ſtore your ſelves more abundantly with thoſe trifles, then your own induſtry in ſuch matters could have ever bleſt ye</p>
+            <p>
+               <pb n="3" facs="tcp:59044:3"/>And now Gentlewomen I give you thoſe rudiments of Accounts which are the ſubject of this little pam<g ref="char:EOLhyphen"/>phlet and tranſmit this learning to you the beſt I can, in the ſelf ſame manner as it came to me.</p>
+            <p>Know then that my Parents were very careful to cauſe me to learn writing and <hi>Arithmetick,</hi> and in that I proceeded as far as Reduction, the Rule of Three and Practice, with other Rules, for without the knowledge of theſe I was told I ſhould not be capable of Trade and Book-keeping and in theſe I found no diſ<g ref="char:EOLhyphen"/>couragement for though <hi>Arithmetick</hi> ſet my brains at work, Yet there was much delight in ſeeing the end, and how each queſtion produced a fair anſwer and in<g ref="char:EOLhyphen"/>formed me of things I knew not.</p>
+            <p>Afterwards I was put to keep an exact account of the expence of <hi>Houſe-keeping,</hi> and other petty <hi>Charges,</hi> my Father made it my office to call all perſons to an account every night what they had laid out, and to reimburſe it them, and ſet all down in a book, and this is the way to make one a Caſhier as they are termed, and one that can keep a fair account of receipts and payments of Mo<g ref="char:EOLhyphen"/>ney or Caſh-book, is in a good way towards the un<g ref="char:EOLhyphen"/>derſtanding of Book-keeping: <hi>Shee</hi> that is ſo well ver<g ref="char:EOLhyphen"/>ſed in this as to keep the accounts of her Caſh right and dayly entred in a book fair without blotting, will ſoon be fit for greater undertakings.</p>
+            <p>Now in regard that other learnings do depend upon this petty Caſh account; I find it therefore convenient to give you an example of a moneths expence, and you will thereby ſee what further uſe may be made of it af<g ref="char:EOLhyphen"/>terwards.</p>
+            <p>Therefore to begin, my Father gives me at ſeveral times in the moneth of <hi>January,</hi> the ſum of 21 <hi>l.</hi> 17 <hi>s.</hi> 11 <hi>d.</hi> the account of the expences whereof is as follow<g ref="char:EOLhyphen"/>eth.</p>
+            <p>
+               <pb n="4" facs="tcp:59044:4"/>
+               <table>
+                  <head>
+                     <hi>Expences in</hi> January 1676.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>fol</hi>
+                     </cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>January</hi> 1.</cell>
+                     <cell>Paid for a book to keep theſe accounts</cell>
+                     <cell>12</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>For</hi> 3 dozen of Candles</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>16</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>To the Scavenger 3/m to <hi>Chriſtmas</hi> laſt</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>For</hi> 2 buſhels of Meal</cell>
+                     <cell>9</cell>
+                     <cell>—</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>For</hi> a hood, ſcarf, apron and gloves</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>18</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Coach hire to <hi>Weſtminſter</hi>
+                     </cell>
+                     <cell>12</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>For</hi> 12 larks and 18 ſnits</cell>
+                     <cell>8</cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Given a Maid that brought a preſent</cell>
+                     <cell>12</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Bor</hi> Beaf and Bacon</cell>
+                     <cell>8</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>For</hi> 30 Eggs</cell>
+                     <cell>9</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>For</hi> Roots and Herbs</cell>
+                     <cell>9</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>For</hi> drinking glaſſes</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>For</hi> Oyſters</cell>
+                     <cell>8</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>For</hi> a Knife and Fork</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>3.</cell>
+                     <cell>Given to new Bedlam</cell>
+                     <cell>12</cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>For</hi> Almonds and Rice</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>For</hi> Eyewater</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>4.</cell>
+                     <cell>
+                        <hi>For</hi> a Leg of Veal</cell>
+                     <cell>8</cell>
+                     <cell>—</cell>
+                     <cell>7</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>For</hi> Salt Fiſh and Smelts</cell>
+                     <cell>8</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>For</hi> Herbs and Sallet</cell>
+                     <cell>9</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>For</hi> a pound of Butter</cell>
+                     <cell>9</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>For</hi> earthen ware</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For oil, Vinegar and Anchovis</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>For</hi> mending a hearth</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>For</hi> a pound of Sauciges</cell>
+                     <cell>8</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>carried over</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>6</cell>
+                     <cell>4</cell>
+                  </row>
+                  <pb n="5" facs="tcp:59044:4"/>
+                  <row>
+                     <cell>1676.</cell>
+                     <cell>Brought over</cell>
+                     <cell>4</cell>
+                     <cell>4</cell>
+                     <cell>6</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Janu.</hi> 5.</cell>
+                     <cell>Given to the poor</cell>
+                     <cell>12</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>For</hi> a quart of white-wine</cell>
+                     <cell>8</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>To a Phyſitian</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>For</hi> thred laces</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>To two waſher women</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>3</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>For</hi> 2 pound of Sauciges</cell>
+                     <cell>8</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>6.</cell>
+                     <cell>
+                        <hi>For</hi> Fiſh</cell>
+                     <cell>8</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>For</hi> a twelf-tide cake</cell>
+                     <cell>9</cell>
+                     <cell>—</cell>
+                     <cell>3</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>For</hi> Bread</cell>
+                     <cell>9</cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>For</hi> Soap and Bluing</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>For</hi> Ale</cell>
+                     <cell>8</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>For</hi> Fagots</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>For</hi> Needles</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>For</hi> Trolly lace</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>7</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For Bacon</cell>
+                     <cell>8</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For Eggs</cell>
+                     <cell>9</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>8.</cell>
+                     <cell>For Meal and Flower</cell>
+                     <cell>9</cell>
+                     <cell>—</cell>
+                     <cell>11</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For a peice of Tape</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>For Fiſh</cell>
+                     <cell>8</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For Sand and Fullers earth</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For Salt</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For a Mop and brooms</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>9.</cell>
+                     <cell>For Riband and Tape</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For Soap</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For a knuckle of Veal</cell>
+                     <cell>8</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For mending the Floor</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For Muſtard</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For Apples, Roots and Herbs</cell>
+                     <cell>9</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>10.</cell>
+                     <cell>For ſmall coal and matches</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For Brand</cell>
+                     <cell>9</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>carried over</cell>
+                     <cell> </cell>
+                     <cell>7</cell>
+                     <cell>8</cell>
+                     <cell>11</cell>
+                  </row>
+                  <pb n="6" facs="tcp:59044:5"/>
+                  <row>
+                     <cell> </cell>
+                     <cell>Brought over</cell>
+                     <cell>5</cell>
+                     <cell>7</cell>
+                     <cell>8</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>1676</cell>
+                     <cell>To a Porter</cell>
+                     <cell>12</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Janu.</hi> 11.</cell>
+                     <cell>Oatcakes and wheat</cell>
+                     <cell>9</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For thirty eggs</cell>
+                     <cell>9</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For Saucidges and links</cell>
+                     <cell>8</cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For a Mum-glaſs</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>To the poor</cell>
+                     <cell>12</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For Veal for broath</cell>
+                     <cell>8</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>12.</cell>
+                     <cell>For fiſh and Anchovis</cell>
+                     <cell>8</cell>
+                     <cell>—</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For bread and barley</cell>
+                     <cell>9</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For ſallet and ſhalots</cell>
+                     <cell>9</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Paid the milk-womans ſcore</cell>
+                     <cell>9</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For two pound of Sugar</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>13.</cell>
+                     <cell>For a Chalder of Coals</cell>
+                     <cell>10</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For bone-lace</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For Veal, Pork, tripe, &amp;c.</cell>
+                     <cell>8</cell>
+                     <cell>—</cell>
+                     <cell>17</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For Mutton</cell>
+                     <cell>8</cell>
+                     <cell>—</cell>
+                     <cell>16</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For Oatmeal</cell>
+                     <cell>9</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For Herbs</cell>
+                     <cell>9</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>15.</cell>
+                     <cell>For a hood, tape, and thred</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>10</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>To a porter</cell>
+                     <cell>12</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For two pound of butter</cell>
+                     <cell>9</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For fiſh</cell>
+                     <cell>8</cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For a bottle of Vinegar</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>A quarters wages to the Maid end. Chriſtm.</cell>
+                     <cell>9</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>17.</cell>
+                     <cell>For Beef and Mutton</cell>
+                     <cell>8</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For a Pullet</cell>
+                     <cell>8</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For herbs and roots</cell>
+                     <cell>9</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>19.</cell>
+                     <cell>For a peticoat</cell>
+                     <cell>11</cell>
+                     <cell>1</cell>
+                     <cell>13</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For bread</cell>
+                     <cell>9</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For fiſh</cell>
+                     <cell>8</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For Broadcloth</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>18</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>20.</cell>
+                     <cell>For Riband</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>carried over</cell>
+                     <cell> </cell>
+                     <cell>15</cell>
+                     <cell>17</cell>
+                     <cell>—</cell>
+                  </row>
+                  <pb n="7" facs="tcp:59044:5"/>
+                  <row>
+                     <cell> </cell>
+                     <cell>brought over</cell>
+                     <cell>6</cell>
+                     <cell>15</cell>
+                     <cell>17</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>1676.</cell>
+                     <cell>To a ſervant that brought a preſent</cell>
+                     <cell>12</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Janu.</hi> 20.</cell>
+                     <cell>For ſoap and fullers Earth</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Yeſt for brewing</cell>
+                     <cell>8</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>A pint of white wine</cell>
+                     <cell>8</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>22.</cell>
+                     <cell>For ten buſhels of Mault</cell>
+                     <cell>8</cell>
+                     <cell>1</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For bread</cell>
+                     <cell>9</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>23.</cell>
+                     <cell>For Veal, Calves Head, <hi>&amp;c.</hi>
+                     </cell>
+                     <cell>8</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For Calico and Sewing Silk</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>25.</cell>
+                     <cell>Given a Child</cell>
+                     <cell>12</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For Ribband, Silk, and Purle</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For Fiſh</cell>
+                     <cell>8</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>27</cell>
+                     <cell>For Peaſe</cell>
+                     <cell>9</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For Anniſeed-water</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For Meal and Flower</cell>
+                     <cell>9</cell>
+                     <cell>—</cell>
+                     <cell>13</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>29.</cell>
+                     <cell>For Shooes to the Children</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>To the Miniſter</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>12</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>For Paving the Street</cell>
+                     <cell>11</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>A Quarter to the Poor, due at <hi>Chriſtmas</hi>
+                     </cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>30.</cell>
+                     <cell>To a Phyſitian</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>To the Apothecary</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>31.</cell>
+                     <cell>For the River-water; to <hi>Chriſtmas</hi>
+                     </cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell role="total"> </cell>
+                     <cell role="total">
+                        <hi>Total</hi>
+                     </cell>
+                     <cell role="total">21</cell>
+                     <cell role="total">17</cell>
+                     <cell role="total">11</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Thus much for the particular Account of the Expences in <hi>Ja<g ref="char:EOLhyphen"/>nuary,</hi> amounting to 21 <hi>l.</hi> 17 <hi>s.</hi> 11 <hi>d.</hi> Which (being paſt and al<g ref="char:EOLhyphen"/>lowed) I am required to draw out in another form, and to make out, in particulars, how much thereof is Expended in Meat, how much in Bread and Meal, how much in Fiſh, <hi>&amp;c.</hi> And ſo to ſub<g ref="char:EOLhyphen"/>divide, and branch out this Account into as many parcels as is con<g ref="char:EOLhyphen"/>venient, to ſhew which way my Money goes, and put me upon Conſidering how I may leſſen my Expences for the time to come. The Form of this Account, is as followeth.</p>
+            <p>See the Reaſon of the Figures preceding the Column of Mo<g ref="char:EOLhyphen"/>ney in <hi>pag.</hi> 14.</p>
+            <p>
+               <pb n="8" facs="tcp:59044:6"/>
+               <table>
+                  <head>Fleſh.</head>
+                  <row>
+                     <cell role="label">
+                        <hi>fol</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>7</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>17</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>16</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>3</cell>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Fiſh.</head>
+                  <row>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>—</cell>
+                     <cell>16</cell>
+                     <cell>7</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Drink.</head>
+                  <row>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>1</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>1.</cell>
+                     <cell>12.</cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb n="9" facs="tcp:59044:6"/>
+               <table>
+                  <head>Bread and Meal.</head>
+                  <row>
+                     <cell role="label">
+                        <hi>fol</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>3</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>11</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>—</cell>
+                     <cell>13</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>2.</cell>
+                     <cell>5.</cell>
+                     <cell>5.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Butter, Cheeſe, Milk, Eggs.</head>
+                  <row>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>—</cell>
+                     <cell>6.</cell>
+                     <cell>5.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Fruits, Roots, Herbs.</head>
+                  <row>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>—</cell>
+                     <cell>4.</cell>
+                     <cell>10</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Wages.</head>
+                  <row>
+                     <cell>6</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb n="10" facs="tcp:59044:6"/>
+               <table>
+                  <head>Oyl, Salteries, and Pickles.</head>
+                  <row>
+                     <cell role="label">
+                        <hi>fol</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                     <cell>10</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Groceries.</head>
+                  <row>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                     <cell>1</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Fire and Candle.</head>
+                  <row>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>16</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>1.</cell>
+                     <cell>19.</cell>
+                     <cell>3</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Laundry.</head>
+                  <row>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>3</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Phyſick.</head>
+                  <row>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>—</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>1.</cell>
+                     <cell>6.</cell>
+                     <cell>3</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Repair of Houſe &amp; Goods.</head>
+                  <row>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>—</cell>
+                     <cell>3.</cell>
+                     <cell>1.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb n="11" facs="tcp:59044:6"/>
+               <table>
+                  <head>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Ware.</head>
+                  <row>
+                     <cell role="label">
+                        <hi>fol.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>—</cell>
+                     <cell>5.</cell>
+                     <cell>1</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Durable Houſhold-ſtuff.</head>
+                  <row>
+                     <cell>4</cell>
+                     <cell>1</cell>
+                     <cell>8</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Apparel.</head>
+                  <row>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>18</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>7</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>10</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>1</cell>
+                     <cell>13</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>18</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>—</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>5.</cell>
+                     <cell>8</cell>
+                     <cell>7</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Taxes and Rent:</head>
+                  <row>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>—</cell>
+                     <cell>12</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>2.</cell>
+                     <cell>3.</cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb n="12" facs="tcp:59044:6"/>
+               <table>
+                  <head>Schooling &amp; Books.</head>
+                  <row>
+                     <cell role="label">
+                        <hi>fol.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Gifts and Charities.</head>
+                  <row>
+                     <cell>4</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>2</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>6.</cell>
+                     <cell>6</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Promiſcuous Incident Charges.</head>
+                  <row>
+                     <cell>4</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>2.</cell>
+                     <cell>6</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb n="13" facs="tcp:59044:6"/>
+               <table>
+                  <head>Total of <hi>January.</hi>
+                  </head>
+                  <row>
+                     <cell role="label">
+                        <hi>Pag.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>8. Fleſh.</cell>
+                     <cell>3</cell>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>8. Fiſh.</cell>
+                     <cell>—</cell>
+                     <cell>16</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>8. Drink.</cell>
+                     <cell>1</cell>
+                     <cell>12</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>9. Bread, <hi>&amp;c.</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>5</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>9. Butter, <hi>&amp;c.</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>9. Fruit, <hi>&amp;c.</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>9. Wages.</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>10. Salteries.</cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>10. Groceries.</cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>10. Fire, <hi>&amp;c.</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>19</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>10. Laundry.</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>10 Phyſick.</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>10. Repairs.</cell>
+                     <cell>—</cell>
+                     <cell>3</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>11. Brittle W.</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>11. Houſe-ſtuff.</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>11. Apparel.</cell>
+                     <cell>5</cell>
+                     <cell>8</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>11. Rent &amp; Tax.</cell>
+                     <cell>2</cell>
+                     <cell>3</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>12. Scho. &amp; Book</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>12. Charities.</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>12. Promiſcuous.</cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell role="total">
+                        <hi>Tot.</hi>
+                     </cell>
+                     <cell role="total">21</cell>
+                     <cell role="total">17</cell>
+                     <cell role="total">11</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb n="14" facs="tcp:59044:7"/>I know not any thing that wants Explanation in theſe two ſeveral Accounts, except the Reaſon of the Fi<g ref="char:EOLhyphen"/>gures preceding each Summe of Money: The Uſe there<g ref="char:EOLhyphen"/>of is this. In the firſt Account, <hi>pag.</hi> 4. The firſt Ar<g ref="char:EOLhyphen"/>ticle is 4 <hi>d.</hi> paid for a Book; and the note of Reference thereto is 12. To ſhew that you have that Sum, and that parcel paſt to Account in <hi>page</hi> 12. And in <hi>page</hi> 12, under the Title of Books and Schooling, I find the num<g ref="char:EOLhyphen"/>ber of Reference to be 4, ſhewing that the ſaid Entry of 4 <hi>d.</hi> for a Book, was there Originally Entred, <hi>viz.</hi> in <hi>pag.</hi> 4.</p>
+            <p>Now, why all this, you'l ſay?</p>
+            <p>I Anſwer, were there no other reaſon than that, I might (from the ſecond Account, wherein I do only ſet the Sum, and not recite for what) turn the readi<g ref="char:EOLhyphen"/>lier to the firſt Account, and ſee what it is for; this would recompence the trouble: But there is a further and great uſe thereof to be made in the keeping an Account of Trade, as ſhall be ſhewn in due place.</p>
+            <p>And I do not doubt, but, that if Parents and Supe<g ref="char:EOLhyphen"/>riours imploy their Children or Servants (one at a time, That is, one in one Year, and another in another) in this or the like way of keeping the Accounts of Houſe Expences, or other petty Charges (beſides the ſatis<g ref="char:EOLhyphen"/>faction they will have to ſee how, and which way their Money goes.) They will alſo train up their Children to be regular and handy in Accounts of greater Mo<g ref="char:EOLhyphen"/>ment.</p>
+            <p>
+               <pb n="15" facs="tcp:59044:7"/>I have not further to ſay, concern<g ref="char:EOLhyphen"/>ing this Account of Houſe-Expences, but, (that at the Years end, when the Account is paſt and approved) there ſhould be a Scheme thereof drawn out of the ſaid Account, in manner follow<g ref="char:EOLhyphen"/>ing, <hi>viz.</hi>
+            </p>
+            <p>
+               <pb n="16-17" facs="tcp:59044:8"/>
+               <table>
+                  <head>The ſeveral Gradations how the afore<g ref="char:EOLhyphen"/>ſaid Years Expences did ariſe.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label" cols="3">
+                        <hi>January.</hi>
+                     </cell>
+                     <cell role="label" cols="3">
+                        <hi>February</hi>
+                     </cell>
+                     <cell role="label" cols="3">
+                        <hi>March.</hi>
+                     </cell>
+                     <cell role="label" cols="3">
+                        <hi>April.</hi>
+                     </cell>
+                     <cell role="label" cols="3">
+                        <hi>May.</hi>
+                     </cell>
+                     <cell role="label" cols="3">
+                        <hi>June.</hi>
+                     </cell>
+                     <cell role="label" cols="3">
+                        <hi>July.</hi>
+                     </cell>
+                     <cell role="label" cols="3">
+                        <hi>Auguſt.</hi>
+                     </cell>
+                     <cell role="label" cols="3">
+                        <hi>Septemb.</hi>
+                     </cell>
+                     <cell role="label" cols="3">
+                        <hi>October.</hi>
+                     </cell>
+                     <cell role="label" cols="3">
+                        <hi>Novemb.</hi>
+                     </cell>
+                     <cell role="label" cols="3">
+                        <hi>Decemb.</hi>
+                     </cell>
+                     <cell role="label" cols="3">
+                        <hi>Total.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>Fleſh.</cell>
+                     <cell>3</cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                     <cell>9</cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                     <cell>11</cell>
+                     <cell>4</cell>
+                     <cell>11</cell>
+                     <cell>11</cell>
+                     <cell>3</cell>
+                     <cell>16</cell>
+                     <cell>11</cell>
+                     <cell>12</cell>
+                     <cell>9</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>12</cell>
+                     <cell>11</cell>
+                     <cell>4</cell>
+                     <cell>14</cell>
+                     <cell>9</cell>
+                     <cell>4</cell>
+                     <cell>15</cell>
+                     <cell>9</cell>
+                     <cell>6</cell>
+                     <cell>16</cell>
+                     <cell>11</cell>
+                     <cell>4</cell>
+                     <cell>5</cell>
+                     <cell>10</cell>
+                     <cell>3</cell>
+                     <cell>13</cell>
+                     <cell>4</cell>
+                     <cell>62</cell>
+                     <cell>5</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Fiſh.</cell>
+                     <cell>—</cell>
+                     <cell>16</cell>
+                     <cell>7</cell>
+                     <cell> </cell>
+                     <cell>12</cell>
+                     <cell>1</cell>
+                     <cell> </cell>
+                     <cell>10</cell>
+                     <cell>9</cell>
+                     <cell>1</cell>
+                     <cell>3</cell>
+                     <cell>1</cell>
+                     <cell> </cell>
+                     <cell>17</cell>
+                     <cell>5</cell>
+                     <cell>1</cell>
+                     <cell>5</cell>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>13</cell>
+                     <cell>10</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>3</cell>
+                     <cell>—</cell>
+                     <cell>18</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>15</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>17</cell>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                     <cell>1</cell>
+                     <cell>9</cell>
+                     <cell>17</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Drink.</cell>
+                     <cell>1</cell>
+                     <cell>12</cell>
+                     <cell>2</cell>
+                     <cell> </cell>
+                     <cell>15</cell>
+                     <cell>2</cell>
+                     <cell> </cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                     <cell>15</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell>10</cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                     <cell>8</cell>
+                     <cell>9</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>8</cell>
+                     <cell>2</cell>
+                     <cell>7</cell>
+                     <cell>1</cell>
+                     <cell>14</cell>
+                     <cell>2</cell>
+                     <cell>3</cell>
+                     <cell>8</cell>
+                     <cell>7</cell>
+                     <cell>—</cell>
+                     <cell>10</cell>
+                     <cell>7</cell>
+                     <cell>2</cell>
+                     <cell>18</cell>
+                     <cell>—</cell>
+                     <cell>26</cell>
+                     <cell>17</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Bread and Meal.</cell>
+                     <cell>2</cell>
+                     <cell>5</cell>
+                     <cell>5</cell>
+                     <cell>2</cell>
+                     <cell>2</cell>
+                     <cell>9</cell>
+                     <cell>4</cell>
+                     <cell>5</cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                     <cell>15</cell>
+                     <cell>2</cell>
+                     <cell>1</cell>
+                     <cell>3</cell>
+                     <cell>8</cell>
+                     <cell>1</cell>
+                     <cell>3</cell>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>17</cell>
+                     <cell>2</cell>
+                     <cell>—</cell>
+                     <cell>12</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>4</cell>
+                     <cell>8</cell>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>8</cell>
+                     <cell>2</cell>
+                     <cell>1</cell>
+                     <cell>8</cell>
+                     <cell>1</cell>
+                     <cell>15</cell>
+                     <cell>6</cell>
+                     <cell>23</cell>
+                     <cell>7</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Butter, Cheeſe, <hi>&amp;c.</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                     <cell>18</cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                     <cell>7</cell>
+                     <cell>2</cell>
+                     <cell> </cell>
+                     <cell>17</cell>
+                     <cell>10</cell>
+                     <cell>6</cell>
+                     <cell>3</cell>
+                     <cell>10</cell>
+                     <cell>1</cell>
+                     <cell>12</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>3</cell>
+                     <cell>13</cell>
+                     <cell>10</cell>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>14</cell>
+                     <cell>8</cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                     <cell>3</cell>
+                     <cell>2</cell>
+                     <cell>1</cell>
+                     <cell>10</cell>
+                     <cell>2</cell>
+                     <cell>25</cell>
+                     <cell>6</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Fruit, Herbs, Roots.</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell>6</cell>
+                     <cell>2</cell>
+                     <cell> </cell>
+                     <cell>4</cell>
+                     <cell>2</cell>
+                     <cell> </cell>
+                     <cell>3</cell>
+                     <cell>8</cell>
+                     <cell> </cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>14</cell>
+                     <cell>3</cell>
+                     <cell>—</cell>
+                     <cell>13</cell>
+                     <cell>2</cell>
+                     <cell>1</cell>
+                     <cell>8</cell>
+                     <cell>6</cell>
+                     <cell>1</cell>
+                     <cell>11</cell>
+                     <cell>2</cell>
+                     <cell>—</cell>
+                     <cell>13</cell>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                     <cell>7</cell>
+                     <cell>—</cell>
+                     <cell>7</cell>
+                     <cell>7</cell>
+                     <cell>6</cell>
+                     <cell>18</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>Wages.</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>1</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>15</cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>2</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>7</cell>
+                     <cell>15</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Salteries, Pickles.</cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell>3</cell>
+                     <cell>2</cell>
+                     <cell> </cell>
+                     <cell>1</cell>
+                     <cell>4</cell>
+                     <cell> </cell>
+                     <cell>3</cell>
+                     <cell>2</cell>
+                     <cell> </cell>
+                     <cell>2</cell>
+                     <cell>9</cell>
+                     <cell> </cell>
+                     <cell>7</cell>
+                     <cell> </cell>
+                     <cell>—</cell>
+                     <cell>7</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>8</cell>
+                     <cell>—</cell>
+                     <cell>10</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                     <cell>8</cell>
+                     <cell>2</cell>
+                     <cell>12</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>Groceries.</cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                     <cell>1</cell>
+                     <cell> </cell>
+                     <cell>3</cell>
+                     <cell>3</cell>
+                     <cell> </cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                     <cell> </cell>
+                     <cell>2</cell>
+                     <cell>4</cell>
+                     <cell> </cell>
+                     <cell>2</cell>
+                     <cell>3</cell>
+                     <cell> </cell>
+                     <cell>8</cell>
+                     <cell>2</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>7</cell>
+                     <cell>—</cell>
+                     <cell>17</cell>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>11</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>10</cell>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>7</cell>
+                     <cell>3</cell>
+                     <cell>10</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Fire and Candle.</cell>
+                     <cell>1</cell>
+                     <cell>19</cell>
+                     <cell>3</cell>
+                     <cell>2</cell>
+                     <cell>11</cell>
+                     <cell>6</cell>
+                     <cell>2</cell>
+                     <cell>4</cell>
+                     <cell>11</cell>
+                     <cell>1</cell>
+                     <cell>10</cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>5</cell>
+                     <cell>7</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                     <cell>1</cell>
+                     <cell>9</cell>
+                     <cell>10</cell>
+                     <cell>11</cell>
+                     <cell>3</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>11</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>11</cell>
+                     <cell>10</cell>
+                     <cell>1</cell>
+                     <cell>16</cell>
+                     <cell>8</cell>
+                     <cell>24</cell>
+                     <cell>11</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Laundry.</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                     <cell>2</cell>
+                     <cell> </cell>
+                     <cell>16</cell>
+                     <cell>7</cell>
+                     <cell> </cell>
+                     <cell>11</cell>
+                     <cell>7</cell>
+                     <cell> </cell>
+                     <cell>6</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                     <cell>16</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell>6</cell>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>13</cell>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>9</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                     <cell>2</cell>
+                     <cell>—</cell>
+                     <cell>10</cell>
+                     <cell>3</cell>
+                     <cell>—</cell>
+                     <cell>11</cell>
+                     <cell>6</cell>
+                     <cell>6</cell>
+                     <cell>8</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>Phyſick.</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                     <cell>3</cell>
+                     <cell> </cell>
+                     <cell>10</cell>
+                     <cell>9</cell>
+                     <cell> </cell>
+                     <cell>1</cell>
+                     <cell>3</cell>
+                     <cell> </cell>
+                     <cell>3</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>4</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>7</cell>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>8</cell>
+                     <cell>3</cell>
+                     <cell>—</cell>
+                     <cell>8</cell>
+                     <cell>9</cell>
+                     <cell>—</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                     <cell>3</cell>
+                     <cell>5</cell>
+                     <cell>12</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Repairs.</cell>
+                     <cell>—</cell>
+                     <cell>3</cell>
+                     <cell>1</cell>
+                     <cell> </cell>
+                     <cell>10</cell>
+                     <cell>1</cell>
+                     <cell> </cell>
+                     <cell>11</cell>
+                     <cell>2</cell>
+                     <cell> </cell>
+                     <cell>2</cell>
+                     <cell>2</cell>
+                     <cell> </cell>
+                     <cell>1</cell>
+                     <cell>11</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>9</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>10</cell>
+                     <cell>1</cell>
+                     <cell>12</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>Brittle Ware.</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                     <cell>1</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                     <cell>3</cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>9</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>8</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                     <cell>8</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>1</cell>
+                     <cell>8</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Houſhold-ſtuff.</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>8</cell>
+                     <cell> </cell>
+                     <cell>2</cell>
+                     <cell>4</cell>
+                     <cell> </cell>
+                     <cell>1</cell>
+                     <cell>10</cell>
+                     <cell>1</cell>
+                     <cell>9</cell>
+                     <cell>3</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>11</cell>
+                     <cell>1</cell>
+                     <cell>5</cell>
+                     <cell>8</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>4</cell>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>14</cell>
+                     <cell>8</cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>8</cell>
+                     <cell>6</cell>
+                     <cell>6</cell>
+                     <cell>12</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Apparel.</cell>
+                     <cell>5</cell>
+                     <cell>8</cell>
+                     <cell>7</cell>
+                     <cell>7</cell>
+                     <cell>9</cell>
+                     <cell>4</cell>
+                     <cell>2</cell>
+                     <cell>7</cell>
+                     <cell>9</cell>
+                     <cell>6</cell>
+                     <cell>10</cell>
+                     <cell>10</cell>
+                     <cell>10</cell>
+                     <cell>9</cell>
+                     <cell>5</cell>
+                     <cell>9</cell>
+                     <cell>10</cell>
+                     <cell>7</cell>
+                     <cell>2</cell>
+                     <cell>10</cell>
+                     <cell>8</cell>
+                     <cell>9</cell>
+                     <cell>1</cell>
+                     <cell>8</cell>
+                     <cell>3</cell>
+                     <cell>14</cell>
+                     <cell>4</cell>
+                     <cell>4</cell>
+                     <cell>13</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                     <cell>13</cell>
+                     <cell>2</cell>
+                     <cell>4</cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                     <cell>70</cell>
+                     <cell>12</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Rent and Taxes.</cell>
+                     <cell>2</cell>
+                     <cell>3</cell>
+                     <cell>2</cell>
+                     <cell>5</cell>
+                     <cell>3</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                     <cell>5</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>1</cell>
+                     <cell>5</cell>
+                     <cell>8</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>4</cell>
+                     <cell>9</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>9</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                     <cell>25</cell>
+                     <cell>10</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Schooling &amp; Books.</cell>
+                     <cell>—</cell>
+                     <cell> </cell>
+                     <cell>4</cell>
+                     <cell> </cell>
+                     <cell>7</cell>
+                     <cell>4</cell>
+                     <cell> </cell>
+                     <cell>2</cell>
+                     <cell>8</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>8</cell>
+                     <cell> </cell>
+                     <cell>10</cell>
+                     <cell>4</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>—</cell>
+                     <cell>9</cell>
+                     <cell>3</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>4</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                     <cell>2</cell>
+                     <cell>2</cell>
+                     <cell>18</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Gifts and Charities.</cell>
+                     <cell>—</cell>
+                     <cell>6</cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                     <cell>7</cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                     <cell>4</cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>17</cell>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                     <cell>9</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>6</cell>
+                     <cell>—</cell>
+                     <cell>11</cell>
+                     <cell>7</cell>
+                     <cell>1</cell>
+                     <cell>3</cell>
+                     <cell>5</cell>
+                     <cell>4</cell>
+                     <cell>2</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Incident Charges.</cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                     <cell>1</cell>
+                     <cell> </cell>
+                     <cell>9</cell>
+                     <cell>1</cell>
+                     <cell>13</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                     <cell>10</cell>
+                     <cell>6</cell>
+                     <cell>1</cell>
+                     <cell>3</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>16</cell>
+                     <cell>2</cell>
+                     <cell>—</cell>
+                     <cell>16</cell>
+                     <cell>3</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                     <cell>1</cell>
+                     <cell>3</cell>
+                     <cell>8</cell>
+                     <cell>8</cell>
+                     <cell>1</cell>
+                     <cell>12</cell>
+                     <cell>11</cell>
+                     <cell>1</cell>
+                     <cell>4</cell>
+                     <cell>2</cell>
+                     <cell>3</cell>
+                     <cell>15</cell>
+                     <cell>10</cell>
+                     <cell>16</cell>
+                     <cell>9</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>21</cell>
+                     <cell>17</cell>
+                     <cell>11</cell>
+                     <cell>30</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                     <cell>20</cell>
+                     <cell>17</cell>
+                     <cell>9</cell>
+                     <cell>24</cell>
+                     <cell>14</cell>
+                     <cell>10</cell>
+                     <cell>26</cell>
+                     <cell>15</cell>
+                     <cell>3</cell>
+                     <cell>40</cell>
+                     <cell>9</cell>
+                     <cell>4</cell>
+                     <cell>9</cell>
+                     <cell>9</cell>
+                     <cell>9</cell>
+                     <cell>40</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>39</cell>
+                     <cell>1</cell>
+                     <cell>5</cell>
+                     <cell>26</cell>
+                     <cell>6</cell>
+                     <cell>4</cell>
+                     <cell>21</cell>
+                     <cell>—</cell>
+                     <cell>11</cell>
+                     <cell>33</cell>
+                     <cell>11</cell>
+                     <cell>11</cell>
+                     <cell>334</cell>
+                     <cell>7</cell>
+                     <cell>3</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb n="18" facs="tcp:59044:9"/>This fore-going Scheme hath two principal Aſpects: Firſt, you ſee the Total Expence of each Moneth at the bottom thereof, <hi>viz. January</hi> 21 <hi>l.</hi> 17 <hi>s.</hi> 11. <hi>Febr.</hi> 30 <hi>l.</hi> 1 <hi>s.</hi> 6 <hi>d.</hi> &amp;c. Secondly, you ſee the Total Years Expence of each Commodity in the laſt Collumn; and ſo the Years Expence for Fleſh-meat is 62 <hi>l.</hi> 5 <hi>s.</hi> 1 <hi>d.</hi> And for Fiſh 9 <hi>l</hi> 17 <hi>s.</hi> 10. &amp;c. And the Total of the whole Years Charge, at the foot of all, to be 334 <hi>l.</hi> 7 <hi>s.</hi> 3.</p>
+            <p>Note, That the Account of Promiſcuous Incident Charges (amounting in the Year to 16 <hi>l.</hi> 9 <hi>s.</hi> 3 <hi>d.</hi>) may be, if you will, diſtinguiſhed into other ſeveral heads, as Port of Letters, Boat and Coach-hire, Travelling-charges, and the like.</p>
+            <p>And thus much may ſerve to be ſpoken concerning this petty-charge Account: In the Practiſe whereof two things are to be minded, <hi>viz.</hi> Exactneſs and Neat<g ref="char:EOLhyphen"/>neſs; without Exactneſs it is an inſignificant thing, a la<g ref="char:EOLhyphen"/>bour in vain. And without Neatneſs, the Accountant doth but manifeſt her unaptneſs, and unreadineſs. There<g ref="char:EOLhyphen"/>fore, if one Year do not render the Accountants exact and neat, let them Practiſe it two Years: For if a true Account be not kept without blots, it will never com<g ref="char:EOLhyphen"/>mend the Artiſt.</p>
+            <p>I ſhould now, in performance of my Promiſe in the Title Page, preſent you with ſome Eſſays or Rudiments of Accounts in the way of a Trade; but what can be expected in theſe few ſheets? Or why ſhould I here Copy the Works of others? The beſt Service I can do you, is to refer you to that Book lately Printed, whence I de<g ref="char:EOLhyphen"/>rive all my ſmall ſtock of Learning in Accounts. The Title of the Book is, <hi>Debtor and Creditor made Eaſie;</hi> and is to be had of the Bookſeller whoſe Name is affixed to the Front of this.</p>
+            <p>But that I may do ſomething, to acquit my ſelf of
+<pb n="19" facs="tcp:59044:9"/>this Engagement, I ſhall here Preſent you with ſome ſhort Precepts, and a few uſeful Examples for a begin<g ref="char:EOLhyphen"/>ner, in the wat of Trade; and leave you to Reap the Harveſt of this Learning from better Authors.</p>
+            <p>The General Precept therefore is this, That when any Goods are bought or ſold, when any Money is received or paid; in ſhort, when any Bargain is made, each Action or Contract is to be Entred in your Leiger, or Book of Accounts twice, <hi>viz.</hi> Debtor and Creditor. For you muſt conſider, that every Receit or Payment, every Buying and Selling, or other Contract is a transferring of Property from one to another; ſo that the Perſon, or thing, who is the Receiver or Borrower, is intended here for the Debtor; and the Perſon who pays, or the thing delivered or lent, is the Creditor. But I cannot more aptly Explain my meaning, than in referring you to the Petty-charge Account before going; wherein you have this Rule of a double Entry plainly Demon<g ref="char:EOLhyphen"/>ſtrated. For in the Moneth of <hi>January</hi> I Receive 21 <hi>l.</hi> 17 <hi>s.</hi> 11 <hi>d.</hi> This I disburſe, as hath been ſhewn. In Fleſh 3 <hi>l.</hi> 6 <hi>s.</hi> — In Fiſh 16 <hi>s.</hi> 7 <hi>d.</hi> &amp;c. Here now the Ac<g ref="char:EOLhyphen"/>count of Fleſh is Debtor, 3 <hi>l.</hi> 6 <hi>s.</hi> and the Account of Fiſh is Debtor 16 <hi>s.</hi> 7 <hi>d.</hi> &amp;c. and that of Money or Caſh is Creditor for all thoſe Sums; and thus one anſwers th' other, and Balances the Account.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> Therefore to proceed: Imagine an Exchange-Wo<g ref="char:EOLhyphen"/>man, Shop-keeper, or the like, newly entring upon Trade, is deſirous to keep her Accounts in an exact Me<g ref="char:EOLhyphen"/>thod.</p>
+            <p>The firſt thing ſhe is to do is to draw an Inventory of her Eſtate, as followeth, <hi>viz.</hi>
+            </p>
+            <p>In Ready Money— 60 <hi>l.</hi>—. —</p>
+            <p>A Piece of black A-la-mode, Contain<g ref="char:EOLhyphen"/>ing 55 Ells, coſt 3 <hi>s. per.</hi> Ell. 0<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>l.</hi> 05 <hi>s.</hi> —</p>
+            <p>
+               <pb n="20" facs="tcp:59044:10"/>20 Dozen of Womens Gloves, coſt 16 <hi>s. per</hi> Dozen — 16 <hi>l.</hi> —</p>
+            <p>Due to her by Mrs. <hi>Martha Thorpe</hi> — 20 <hi>l.</hi> —</p>
+            <p>So her whole Eſtate is—104 <hi>l.</hi> 5 <hi>s.</hi> —</p>
+            <p>Theſe four Branches of her Stock are to be kept in ſo many ſeveral Heads of Accounts, as in the former Rules of Houſe Accounts: So that firſt Money or Caſh is to be made Debtor, and an Account of Stock, Cre<g ref="char:EOLhyphen"/>ditor: Turn over to the Leiger, which begins at page 28, and you'l ſee this done; the Debtor is always on the left hand, and the Creditor on the right. There you will find it ſo entred, <hi>viz.</hi> Caſh in <hi>pag.</hi> 28, is Debtor to Stock, in <hi>pag.</hi> 29. And Stock, in <hi>pag.</hi> 29. is Credi<g ref="char:EOLhyphen"/>tor by Caſh, in <hi>pag.</hi> 28. And in the like manner you will find the other three Parcels entred in <hi>pag.</hi> 30, 31.</p>
+            <p>Having thus Poſted your Account of Stock, and ſet open your ſhop, you begin your Trade after ſome ſuch manner as this: And here I deſire the Reader or Learn<g ref="char:EOLhyphen"/>er, as ſhe reads theſe following Inſtructions, to caſt her eye upon the Leiger where the Parcels are entred.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> You ſell by Retail for ready Money, five dozen of Gloves, at 20 <hi>s. per</hi> dozen — 5 <hi>l.</hi> —</p>
+            <p>For this (having Received Money) your Caſh is Debtor,<note place="margin">
+                  <hi>Debtor</hi> 28. <hi>Creditor</hi> 31.</note> and Account of Gloves is Creditor; as you ſee it done in <hi>pag.</hi> 28.31. — 5 <hi>l.</hi> —</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/> You have ſold to Mrs. <hi>Thorp</hi> five dozen of Gloves, at 22 <hi>s. per</hi> dozen — 5 <hi>l.</hi> 10 <hi>s.</hi> —</p>
+            <p>To Enter this, Mrs. <hi>Thorp</hi> (not yet having paid) is Debtor,<note place="margin">
+                  <hi>Debter</hi> 30. <hi>Creditor</hi> 31.</note> and Account of Gloves Creditor, as will ap<g ref="char:EOLhyphen"/>pear by the Figures of Reference in the Margin. 5 <hi>l.</hi> 10 <hi>s.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="IIII"/> Having given out 25 Ells of Allamode for making of Hoods, they now being returned in 30 Hoods, coſt
+<pb n="21" facs="tcp:59044:10"/>2 <hi>s.</hi> 6 d. each Hood in ſtuff onely, which is equivalent to 3 <hi>s. per</hi> Ell. — 3 <hi>l.</hi> 15 <hi>s.</hi> —</p>
+            <p>For this, make in your Leiger an Account of Hoods, and let that be Debtor, and Allamode Creditor. 3 <hi>l.</hi> 15 <hi>s.</hi>
+            </p>
+            <p>Paid your Sempſtreſs for Silk and making the ſaid Hoods,<note place="margin">
+                  <hi>Debtor</hi> 32. <hi>Creditor</hi> 31.</note> at 6 d. a piece.— <hi>l.</hi>— 15 <hi>s.</hi> —</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="V"/> Hoods is here Debtor to Caſh— <hi>l.</hi>—15 <hi>s.</hi> —</p>
+            <p>Note,<note place="margin">
+                  <hi>Debtor</hi> 32. <hi>Creditor</hi> 29</note> when I ſay Debtor to Caſh, it is in ſhort to ex<g ref="char:EOLhyphen"/>preſs, that Hoods is Debtor, and Caſh is Creditor. And here alſo Obſerve all along in your Leiger, that every Debtors Parcel begins <hi>[To]</hi> and then mentions the Creditor; and every Creditor begins <hi>[By]</hi> and then mentions the Debtor. The firſt tells whither you are going, the ſecond whence you come.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="VI"/> You have Received of Mrs. <hi>Thorp,</hi> in part of her Debt— 15 <hi>l.</hi> —</p>
+            <p>Make Caſh Debtor,<note place="margin">
+                  <hi>Debtor</hi> 28. <hi>Creditor</hi> 31.</note> &amp; Mrs. <hi>Thorp</hi> Creditor. 15 <hi>l.</hi> —</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="VII"/> Bought of <hi>Henry Garſtang</hi> 20 dozen of Gloves, at 15 s. <hi>per</hi> dozen. — 15 <hi>l.</hi> —</p>
+            <p>Here Gloves are Debtor,<note place="margin">
+                  <hi>Debtor</hi> 30. <hi>Creditor</hi> 33</note> and you muſt ſtate an Ac<g ref="char:EOLhyphen"/>count for <hi>Henry Garſtang,</hi> and make that Creditor. 15 <hi>l.</hi>
+            </p>
+            <p>You pay the ſaid <hi>Garſtang</hi> in Money 10 <hi>l.</hi> and by 30 Hoods, at 3 s. 4 d. <hi>per</hi> Hood. — 5 <hi>l.</hi> —</p>
+            <p n="1">1. <hi>Henry Garſtang</hi> is Debtor to Caſh for the 10 <hi>l.</hi> paid him.<note place="margin">
+                  <hi>Debtor</hi> 32. <hi>Creditor</hi> 29. <hi>Debtor</hi> 32. <hi>Creditor</hi> 33.</note> — 10 <hi>l.</hi> —</p>
+            <p n="2">2. The ſaid <hi>Garſtang</hi> is Debtor to Hoods 5 <hi>l.</hi> for 30 ſold him.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="VIII"/> Bought of <hi>James Jones</hi> two Pieces of Bag-Holland, containing 60 Ells, at 5 s. <hi>per</hi> Ell. — 15 <hi>l.</hi> —</p>
+            <p>Four Pieces of Cambrick, at 40 s. <hi>per</hi> Piece. 8 <hi>l.</hi> —</p>
+            <p>23 <hi>l.</hi> —</p>
+            <p>Make an Account of Linnen Debtor,<note place="margin">
+                  <hi>Debtor</hi> 32. <hi>Creditor</hi> 33</note> and <hi>James Jones,</hi> Creditor. — 23 <hi>l.</hi> —</p>
+            <p>
+               <pb n="22" facs="tcp:59044:11"/>Both theſe muſt be new opened in the Leiger.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="IX"/> You pay Mr. <hi>Jones</hi> in Money — 12 <hi>l.</hi> 10 <hi>s.</hi>— And he is willing to accept of the Aſſignment upon Mrs. <hi>Thorp</hi> for the Debt ſhe owes, being — 10 <hi>l.</hi> 10. —</p>
+            <p>So he is paid in full — 23 <hi>l.</hi> —</p>
+            <p>By this time I hope it is eaſie to be underſtood that <hi>Jones</hi> is Debtor,<note place="margin">
+                  <hi>Debtor</hi> 32. <hi>Creditor</hi> 29. <hi>Debtor</hi> 32. <hi>Creditor</hi> 31.</note> and Caſh Creditor for the 12 <hi>l.</hi> 10 <hi>s.</hi> paid.</p>
+            <p>And he is Debtor, and Mrs. <hi>Thorp</hi> Creditor for the Aſſignment of — 10 <hi>l.</hi> 10 <hi>s.</hi> —</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="X"/> Your whole parcel of Linnen is cut out, and made up into Handkerchiefs, Cravats, Cuffs, <hi>&amp;c.</hi> the charge thereof, as by the Sempſtreſs's Bill, amounts to, and you paid her — 2 <hi>l.</hi> 10 <hi>s.</hi> —</p>
+            <p>This is eaſily put in Order thus.<note place="margin">
+                  <hi>Debtor</hi> 32. <hi>Creditor</hi> 29.</note>
+            </p>
+            <p>Linnen Debtor, and Caſh Creditor— 2 l. 10 s. —</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XI"/> You meet with a Merchant going to <hi>Barbadoes,</hi> who hath occaſion for about half of your Linnen, and the parcel is made out, proportionable to his pay, which is not to be in Money, but in two Hogſheads of Sugar, weighing Nett 14 <hi>C.</hi> 3 <hi>q.</hi> 14 <hi>l.</hi> The price 26 <hi>s. per C.</hi> amounting to 19 <hi>l.</hi> 6 <hi>s.</hi> 9 <hi>d.</hi>
+            </p>
+            <p>The Goods being Bartered and interchanged, you need onely make an Account of Sugar,<note place="margin">
+                  <hi>Debtor</hi> 34. <hi>Creditor</hi> 33.</note> Debtor, and Linnen Creditor — 19 <hi>l</hi> 6 <hi>s</hi> 9 <hi>d</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XII"/> Your disburſements, for Houſe-keeping, and all other petty charges, amounts to in a week paſt — 3 <hi>l</hi> 6 <hi>s</hi> 8 <hi>d.</hi>
+            </p>
+            <p>Make an Account in your Leiger of Houſe-keeping,<note place="margin">
+                  <hi>Debtor</hi> 34. <hi>Creditor</hi> 29.</note> and let that be Debtor to Caſh — 3 <hi>l</hi> 6 <hi>s</hi> 8 <hi>d</hi>
+            </p>
+            <p>And thus I have done, as to carrying on a Trade, for I dare not ſwell this into a farther progreſs; this may ſuffice to give you a reliſh of an Art, which the more known, will yield the pleaſanter taſte.</p>
+            <p>But all this will ſignifie but little, unleſs you bring
+<pb n="23" facs="tcp:59044:11"/>your Accounts to a certain concluſion or Balance, whereby to ſee how your new Stock differs from your Old.</p>
+            <p>To accompliſh this, there are two Accounts more to be ſtated in your Leiger, which have not yet been open<g ref="char:EOLhyphen"/>ed; that is, the Account of Profit and Loſs, and the Account of Balance. The firſt of theſe you could not have been without, if this Trade had been a little far<g ref="char:EOLhyphen"/>ther carried on. That of Balance is ever the laſt Ac<g ref="char:EOLhyphen"/>count in the old Leiger, and the firſt in the new, as ex<g ref="char:EOLhyphen"/>perience will demonſtrate.</p>
+            <p>To effect this, look over your Leiger from firſt to laſt, and ſingle out the Accounts which remain open; I mean, ſuch which are not even on both ſides, as <hi>Thorps, Garſtangs,</hi> and <hi>Jones</hi>'s are. Then conſider what may be the reaſon that the open Accounts are not cloſed as thoſe laſt mentioned. And you'l find two main Reaſons; firſt, for that there are ſtill divers goods undiſpoſed of. Second<g ref="char:EOLhyphen"/>ly, in regard of a ſurpluſage by Profit, or a diminution by Loſs: In both theſe caſes theſe two Accounts of Pro<g ref="char:EOLhyphen"/>fit and Loſs, and Balance will ſet all right.</p>
+            <p>Begin therefore with the Account of Caſh, and you will find that there is ſtill remaining in your hands 50 <hi>l.</hi> 18 <hi>s.</hi> 4 <hi>d.</hi>
+            </p>
+            <p>To even therefore this Account,<note place="margin">
+                  <hi>Debtor</hi> 34. <hi>Creditor</hi> 29.</note> make Balance Debtor Caſh 50 <hi>l.</hi> 18 <hi>s.</hi> 4. ſo cloſe up that.</p>
+            <p>The next is the Account of Alamode, wherein you ſee is remaining unſold 30 Ells, which at 3 <hi>s.</hi> an Ell is — 4 <hi>l.</hi> 10 <hi>s.</hi> —</p>
+            <p>Make alſo Balance Debtor to Alamode 4 <hi>l.</hi> 10 <hi>s.</hi> and that is evened.<note place="margin">
+                  <hi>Debtor</hi> 34. <hi>Creditor</hi> 31</note>
+            </p>
+            <p>The next Account is that of Gloves, which is not to be cloſed up without twice the Labour, as the former,
+<pb n="24" facs="tcp:59044:12"/>for, in this, you have reference both to Profit and loſs, and Balance. Firſt, value the Gloves you have re<g ref="char:EOLhyphen"/>maining, reckoning half of the firſt parcel 8 <hi>l.</hi> and all the laſt 15 <hi>l.</hi> both which being 23 <hi>l.</hi> carry to Account of Balance, as you did the two former, <hi>viz.</hi>
+            </p>
+            <p>Balance is Debtor to Gloves for 360 pair reſting un<g ref="char:EOLhyphen"/>ſold — 23 <hi>l.</hi> —<note place="margin">
+                  <hi>Debtor</hi> 34. <hi>Creditor</hi> 31.</note>
+            </p>
+            <p>Then you'l find 50 <hi>s.</hi> wanting to make up the Debtor ſide, and that is clear Profit; for which, ſay,</p>
+            <p>Gloves Debtor to Profit and Loſs,<note place="margin">
+                  <hi>Debtor</hi> 30. <hi>Creditor</hi> 35.</note> 2 <hi>l.</hi> 10 <hi>s.</hi> gained up<g ref="char:EOLhyphen"/>on that Account.</p>
+            <p>The next is the Account of Hoods, which is to be cloſed up with Profit and Loſs,<note place="margin">
+                  <hi>Debtor</hi> 32. <hi>Creditor</hi> 35.</note> 10 <hi>s.</hi> being ſo much gained upon that Account.</p>
+            <p>The next is that of Linnen, which muſt be evened juſt as the Account of Gloves was; therefore value the Linnen remaining, at — 12 <hi>l.</hi> 15 <hi>s.</hi> —</p>
+            <p>For this, Balance is Debtor,<note place="margin">
+                  <hi>Debtor</hi> 34. <hi>Creditor</hi> 33</note> and Linnen is Credi<g ref="char:EOLhyphen"/>tor — 12 <hi>l.</hi> 15 <hi>s.</hi> —</p>
+            <p>And then you will find 6 <hi>l.</hi> 11 <hi>s.</hi> 9 <hi>d.</hi> Profit: Then ſay,</p>
+            <p>Linnen is Debtor to Profit and Loſs — 6 <hi>l.</hi> 11 <hi>s.</hi> 9 <hi>d.</hi>
+            </p>
+            <p>Afterwards you come to your Account of Sugar,<note place="margin">
+                  <hi>Debtor</hi> 32. <hi>Creditor</hi> 35 <hi>Debtor</hi> 34. <hi>Creditor</hi> 35</note> and that is all remaining; therefore ſay,</p>
+            <p>Balance Debtor to Sugar — 19 l. 6 s. 9 d.</p>
+            <p>Then your Houſe-keeping Account, and that is to be placed on the loſing ſide of Profit and Loſs, thus,</p>
+            <p>Profit and Loſs Debtor to Houſe-keep.<note place="margin">
+                  <hi>Debtor</hi> 34. <hi>Creditor</hi> 35.</note> — 3 l. 6, 8 d.</p>
+            <p>And then compare your Account of Profit and Loſs, and ſee which ſide weighs heavieſt, and that is the Cre<g ref="char:EOLhyphen"/>ditor ſide, amounting to 9 l. 11 s. 9 d. which is the Sum Total of this weeks gain, out of which deduct the char<g ref="char:EOLhyphen"/>ges of Houſe-keeping, which is on the Debtor ſide, and the clear Profit is — 6 l. 5 s. 1 d.</p>
+            <p>Carry this 6 l. 5 s. 1 d. to your Account of Stock, at
+<pb n="25" facs="tcp:59044:12"/>
+               <hi>pag.</hi> 29. being an apparent increaſe to that Account, which before was 104 l. 5. and now by this additon, is 110 l. 10 s. 1 d. thus,</p>
+            <p>Profit and Loſs Debtor to Account of Stock 6 l. 5 s. 1 d.<note place="margin">
+                  <hi>Debtor</hi> 34. <hi>Creditor</hi> 29</note>
+            </p>
+            <p>Laſtly, carry over the Account of Stock to Balance, thus,</p>
+            <p>Stock is Debtor to Balance — 110 l. 10 s. 1 d.<note place="margin">
+                  <hi>Debtor</hi> 28. <hi>Creditor</hi> 35</note>
+            </p>
+            <p>When this is done, if Balance Balances it ſelf, and be alike on both ſides, as you ſee it is, then you may con<g ref="char:EOLhyphen"/>clude your Leiger is right poſted; elſe you muſt never ceaſe till you find out the Error. And this Account of Balance (being that which demonſtrates where your Eſtate lies) is all you need carry over to your new Book. The Reader is not to imagine that it is intended ſhe ſhould Balance her Accounts and have new Books every week, once a Year is often enough.</p>
+            <p>And in this manner ought a Merchants Leiger appear, every Account therein Balanced to one Farthing, which will be both a Credit and a Delight to her.</p>
+            <p>If a Retailing Shop-keeper Objects, That it were too painful to enter every pair of Gloves, <hi>&amp;c.</hi> which he ſel<g ref="char:EOLhyphen"/>leth, in his Leiger after the aforeſaid manner. I An<g ref="char:EOLhyphen"/>ſwer, There is a ready way to compriſe a weeks Retail, though conſiſting of many particulars, into a very ſhort Method. But this and other difficulties are all removed in that fore-mentioned Book, whence I derive my Learn<g ref="char:EOLhyphen"/>ing.</p>
+            <p>I Adviſe the Practitioners to take the pains, as they Read the Propoſitions and Inſtructions, not to ſatisfie themſelves by looking in the Leiger; but as they un<g ref="char:EOLhyphen"/>derſtand each Parcel, to poſt it themſelves in a Paper Book till the whole be finiſh'd.</p>
+            <p>
+               <pb facs="tcp:59044:13"/>
+               <pb n="27" facs="tcp:59044:13"/>
+               <table>
+                  <head>The Alphabet to the enſuing LEIGER.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">Page</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Alamode.</hi>
+                     </cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Balance.</hi>
+                     </cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Caſh.</hi>
+                     </cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>D.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>E.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>F.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Gloves.</hi>
+                     </cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Garſtang.</hi>
+                     </cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hoods.</hi>
+                     </cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Houſe-keeping.</hi>
+                     </cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Jones.</hi>
+                     </cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>K.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Linnen</hi>
+                     </cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>M.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>N.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>O.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Profit &amp;c Loſs</hi>
+                     </cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Q.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Stock</hi>
+                     </cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sugar</hi>
+                     </cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thorp</hi>
+                     </cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>V.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>W.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>X.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Y.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Z.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb n="28" facs="tcp:59044:14"/>
+               <table>
+                  <head>
+                     <hi>Stock</hi> Debtor</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>fol</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>To Ballance</cell>
+                     <cell>35</cell>
+                     <cell>110</cell>
+                     <cell>10</cell>
+                     <cell>1</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Caſh</hi> Debtor</head>
+                  <row>
+                     <cell>To Stock remaining in my hands</cell>
+                     <cell>29</cell>
+                     <cell>60</cell>
+                  </row>
+                  <row>
+                     <cell>To Gloves ſold 5 doz.</cell>
+                     <cell>31</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>To Mrs. <hi>Thorp,</hi> of whom Recd. in part</cell>
+                     <cell>31</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>80</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb n="29" facs="tcp:59044:14"/>
+               <table>
+                  <head>
+                     <hi>Stock</hi> Creditor</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>fol</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>By Caſh remaining in my hands</cell>
+                     <cell>28</cell>
+                     <cell>60</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>By Alamode 55 Ells, at 3 <hi>s. per</hi> Ell</cell>
+                     <cell>30</cell>
+                     <cell>8</cell>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>By Gloves 20 dozen, at 16 <hi>s. per</hi> doz</cell>
+                     <cell>30</cell>
+                     <cell>16</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>By Mrs. <hi>Martha Thorp,</hi> who owes me</cell>
+                     <cell>30</cell>
+                     <cell>20</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>104</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>By Profit and Loſs a weeks gain</cell>
+                     <cell>34</cell>
+                     <cell>6</cell>
+                     <cell>5</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>110</cell>
+                     <cell>10</cell>
+                     <cell>1</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Caſh</hi> Creditor</head>
+                  <row>
+                     <cell>By Hoods paid for making 30</cell>
+                     <cell>32</cell>
+                     <cell>—</cell>
+                     <cell>15</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>By <hi>Hen. Garſtang</hi> paid in part</cell>
+                     <cell>32</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>By <hi>James Jones</hi> an Account of Linnen</cell>
+                     <cell>32</cell>
+                     <cell>12</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>By Linnen paid <hi>Mabel Owen,</hi> Sempſtreſs</cell>
+                     <cell>32</cell>
+                     <cell>2</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>By Houſe-keep. charges for a week paſt</cell>
+                     <cell>34</cell>
+                     <cell>3</cell>
+                     <cell>9</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>By Ballance</cell>
+                     <cell>34</cell>
+                     <cell>50</cell>
+                     <cell>18</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>80</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb n="30" facs="tcp:59044:15"/>
+               <table>
+                  <head>
+                     <hi>Alamode</hi> Debtor</head>
+                  <row>
+                     <cell role="label">Ells.</cell>
+                     <cell role="label">
+                        <hi>fol</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>To Stock Reſting at 3 <hi>s. per</hi> Ell, 55</cell>
+                     <cell>29</cell>
+                     <cell>8</cell>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Gloves</hi> Debtor</head>
+                  <row>
+                     <cell role="label">Pair.</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>To stock Reſting. 20 Doz. is 240.</cell>
+                     <cell>29</cell>
+                     <cell>16</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>To <hi>Hen. Garſtang,</hi> of whom bought 240</cell>
+                     <cell>33</cell>
+                     <cell>15</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>To Profit and Loſs gained</cell>
+                     <cell>35</cell>
+                     <cell>2</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>480</cell>
+                     <cell> </cell>
+                     <cell>33</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Mrs. <hi>Martha Thorp</hi> Debtor</head>
+                  <row>
+                     <cell>To Stock which ſhe owes me</cell>
+                     <cell>29</cell>
+                     <cell>20</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>To Gloves ſold to her 5 doz.</cell>
+                     <cell>31</cell>
+                     <cell>5</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>25</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb n="31" facs="tcp:59044:15"/>
+               <table>
+                  <head>
+                     <hi>Alamode</hi> Creditor</head>
+                  <row>
+                     <cell role="label">Ells.</cell>
+                     <cell role="label">
+                        <hi>fol</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>By Hoods given out to the Sempſtreſs 25</cell>
+                     <cell>32</cell>
+                     <cell>3</cell>
+                     <cell>15</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>By Ballance Reſt unſold —30</cell>
+                     <cell>34</cell>
+                     <cell>4</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>55</cell>
+                     <cell> </cell>
+                     <cell>8</cell>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Gloves</hi> Creditor</head>
+                  <row>
+                     <cell role="label">Pair.</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>By Caſh Received by Sale of —60</cell>
+                     <cell>28</cell>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>By <hi>Mrs. Thorp,</hi> to whom ſold —60</cell>
+                     <cell>30</cell>
+                     <cell>5</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>By Ballance unſold, val. at —360</cell>
+                     <cell>34</cell>
+                     <cell>23</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>480</cell>
+                     <cell> </cell>
+                     <cell>33</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>M<hi rend="sup">rs.</hi> 
+                     <hi>Martha Thorp</hi> Creditor</head>
+                  <row>
+                     <cell>By Caſh Received of her</cell>
+                     <cell>28</cell>
+                     <cell>15</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>By <hi>James Jones</hi> Aſſigned the remainder</cell>
+                     <cell>32</cell>
+                     <cell>10</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>25</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb n="32" facs="tcp:59044:16"/>
+               <table>
+                  <head>
+                     <hi>Hoods</hi> Debtor</head>
+                  <row>
+                     <cell role="label">Hoods.</cell>
+                     <cell role="label">
+                        <hi>fol</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>To Alamode 25 Ells, of which made 30</cell>
+                     <cell>31</cell>
+                     <cell>3</cell>
+                     <cell>15</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>To Caſh, paid the Sempſtreſs for making</cell>
+                     <cell>29</cell>
+                     <cell>—</cell>
+                     <cell>15</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>To Profit and Loſs gained</cell>
+                     <cell>35</cell>
+                     <cell>—</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Henry Garſtang <hi>Debtor</hi>
+                  </head>
+                  <row>
+                     <cell>To Caſh, paid him in part</cell>
+                     <cell>29</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>To Hoods 30 ſold him</cell>
+                     <cell>33</cell>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>15</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>James Jones <hi>Debtor</hi>
+                  </head>
+                  <row>
+                     <cell>To Caſh, paid him</cell>
+                     <cell>29</cell>
+                     <cell>12</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>To Mrs. <hi>Thorp,</hi> on whom Aſſigned</cell>
+                     <cell>31</cell>
+                     <cell>10</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>23</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Linnen</hi> Debtor</head>
+                  <row>
+                     <cell>To <hi>James Jones</hi> for a parcel of Linnen</cell>
+                     <cell>33</cell>
+                     <cell>23</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>To Caſh, paid <hi>Mabel Owen</hi> the Sempſtreſs</cell>
+                     <cell>29</cell>
+                     <cell>2</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>To Profit and Loſs gained by this Acc<hi rend="sup">t.</hi>
+                     </cell>
+                     <cell>35</cell>
+                     <cell>6</cell>
+                     <cell>11</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>32</cell>
+                     <cell>1</cell>
+                     <cell>9</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb n="33" facs="tcp:59044:16"/>
+               <table>
+                  <head>
+                     <hi>Hoods</hi> Creditor</head>
+                  <row>
+                     <cell role="label">Hoods.</cell>
+                     <cell role="label">
+                        <hi>fol</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>By <hi>Hen. Garſtang,</hi> to whom ſold 30</cell>
+                     <cell>32</cell>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Henry Garſtang <hi>Creditor</hi>
+                  </head>
+                  <row>
+                     <cell>By 20 dozen of Gloves bought of him</cell>
+                     <cell>30</cell>
+                     <cell>15</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>James Jones <hi>Creditor</hi>
+                  </head>
+                  <row>
+                     <cell>By Linnen bought of him</cell>
+                     <cell>32</cell>
+                     <cell>23</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Linnen</hi> Creditor</head>
+                  <row>
+                     <cell>By Sugar, exchanged for Linnen</cell>
+                     <cell>34</cell>
+                     <cell>19</cell>
+                     <cell>6</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>By Ballance I value half remaining</cell>
+                     <cell>34</cell>
+                     <cell>12</cell>
+                     <cell>15</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>32</cell>
+                     <cell>1</cell>
+                     <cell>9</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb n="34" facs="tcp:59044:17"/>
+               <table>
+                  <head>
+                     <hi>Sugar</hi> Debtor</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>fol</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>To Linnen for two Hogſheads Received in Barter</cell>
+                     <cell>33</cell>
+                     <cell>19</cell>
+                     <cell>6</cell>
+                     <cell>9</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Houſe-keeping <hi>Debtor</hi>
+                  </head>
+                  <row>
+                     <cell>To Caſh disburſt in a week paſt</cell>
+                     <cell>29</cell>
+                     <cell>3</cell>
+                     <cell>6</cell>
+                     <cell>8</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Profit and Loſs <hi>Debtor</hi>
+                  </head>
+                  <row>
+                     <cell>To Houſe-keeping ſpent this laſt week</cell>
+                     <cell>35</cell>
+                     <cell>3</cell>
+                     <cell>6</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>To Stock gained in all</cell>
+                     <cell>29</cell>
+                     <cell>6</cell>
+                     <cell>5</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>9</cell>
+                     <cell>11</cell>
+                     <cell>9</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Ballance</hi> Debtor</head>
+                  <row>
+                     <cell>To Caſh remaining</cell>
+                     <cell>29</cell>
+                     <cell>50</cell>
+                     <cell>18</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>To Alamode remaining 30 Ells</cell>
+                     <cell>31</cell>
+                     <cell>4</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>To Gloves remaining 360 pair</cell>
+                     <cell>31</cell>
+                     <cell>23</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>To Linnen remaining, which I value at</cell>
+                     <cell>33</cell>
+                     <cell>12</cell>
+                     <cell>15</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>To Sugar two Hogſheads remaining</cell>
+                     <cell>35</cell>
+                     <cell>19</cell>
+                     <cell>6</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>110</cell>
+                     <cell>10</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb n="35" facs="tcp:59044:17"/>
+               <table>
+                  <head>
+                     <hi>Sugar</hi> Creditor</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>fol</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>By Ballance: reſt unſold</cell>
+                     <cell>34</cell>
+                     <cell>19</cell>
+                     <cell>6</cell>
+                     <cell>9</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Houſe-keeping <hi>Creditor</hi>
+                  </head>
+                  <row>
+                     <cell>By Profit and Loſs, to even this Account</cell>
+                     <cell>34</cell>
+                     <cell>3</cell>
+                     <cell>6</cell>
+                     <cell>8</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Profit and Loſs <hi>Creditor</hi>
+                  </head>
+                  <row>
+                     <cell>By Account of Gloves gained</cell>
+                     <cell>30</cell>
+                     <cell>2</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>By Account of Hoods gained</cell>
+                     <cell>32</cell>
+                     <cell>—</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>Ly Account of Linnen gained</cell>
+                     <cell>32</cell>
+                     <cell>6</cell>
+                     <cell>11</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>9</cell>
+                     <cell>11</cell>
+                     <cell>9</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Ballance</hi> Creditor</head>
+                  <row>
+                     <cell>By former Stock with Addition of this weeks clear Profit</cell>
+                     <cell>28</cell>
+                     <cell>110</cell>
+                     <cell>10</cell>
+                     <cell>1</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb n="36" facs="tcp:59044:18"/>If any Perſons deſire the Aſsiſtance of a Maſter to haſten them in this Learning, Mr. <hi>Randolph,</hi> School-Ma<g ref="char:EOLhyphen"/>ſter in <hi>Mugwel-ſtreet,</hi> near Chirurgeons-Hall, will Attend them, at home or abroad.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:59044:18"/>
+         </div>
+      </body>
+   </text>
+</TEI>
